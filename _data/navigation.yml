@@ -2,11 +2,11 @@
 main:
   - title: "Blog"
     children:
-      - title: Life in America
+      - title: "Life in America"
         url: /America
-      - title: CT Reconstruction
+      - title: "CT Reconstruction"
         url: /CT
-      - title: Radiation therapy
+      - title: "Radiation therapy"
         url: /Rad
   - title: "CV"
     url: CV
@@ -18,3 +18,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+siadenav:
+  - title: "Blog"
+    children:
+      - title: "Life in America"
+        url: /America
+      - title: "CT Reconstruction"
+        url: /CT
+      - title: "Radiation therapy"
+        url: /Rad
+  - title: "CV"
+    url: CV
