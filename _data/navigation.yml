@@ -1,6 +1,7 @@
 # main links
 main:
   - title: "Blog"
+    url: /
     children:
       - title: "Life in America"
         url: /America
