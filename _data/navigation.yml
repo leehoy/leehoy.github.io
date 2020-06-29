@@ -4,8 +4,11 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
     children:
       - Life in America
+        url: America
       - CT Reconstruction
+        url: CT
       - Radiation therapy
+        url: Rad
   - title: "CV"
     url: CV
   # - title: "About"
