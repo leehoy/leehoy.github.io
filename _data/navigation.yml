@@ -2,11 +2,11 @@
 main:
   - title: "Blog"
     children:
-      - Life in America
+      - title: Life in America
         url: /America
-      - CT Reconstruction
+      - title: CT Reconstruction
         url: /CT
-      - Radiation therapy
+      - title: Radiation therapy
         url: /Rad
   - title: "CV"
     url: CV
