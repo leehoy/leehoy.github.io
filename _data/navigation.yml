@@ -1,14 +1,13 @@
 # main links
 main:
   - title: "Blog"
-    url: /
     children:
       - Life in America
-        url: America
+        url: /America
       - CT Reconstruction
-        url: CT
+        url: /CT
       - Radiation therapy
-        url: Rad
+        url: /Rad
   - title: "CV"
     url: CV
   # - title: "About"
