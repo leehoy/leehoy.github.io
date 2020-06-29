@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Blog"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /
     children:
       - Life in America
         url: America
