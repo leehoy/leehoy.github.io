@@ -4,8 +4,8 @@ title: Radiation therapy
 layout: category
 permalink: /categories/Rad/
 taxonomy: Rad
+entries_layout: list (default) #, grid
 author_profile: true
-entries_layout: grid
 sidebar:
   nav: "sidenav"
 
