@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Radiation tehrapy
+title: Radiation therapy
 layout: category
 permalink: /categories/Rad/
 taxonomy: Rad
