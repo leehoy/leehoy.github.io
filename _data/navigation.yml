@@ -21,8 +21,8 @@ sidenav:
       - title: "Radiation therapy"
         url: /categories/Rad
       - title: "Life in America"
-          url: /categories/America
+        url: /categories/America
       - title: "Etc."
-        - ulr: /categories/etc
+        ulr: /categories/etc
   - title: "CV"
     url: CV
