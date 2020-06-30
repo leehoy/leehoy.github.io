@@ -282,6 +282,25 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
       sidebar:
         nav: sidenav
+  - scope:
+      path: ""
+      type: pages
+      values:
+        layout: single
+        author_profile: true
+        read_time: true
+        comments: # true
+        share: true
+        related: false
+        sidebar:
+          nav: sidenav
+  - scope:
+      path: ""
+      type: category
+      values:
+        comments: false
+        sidebar:
+          nav: sidenav
