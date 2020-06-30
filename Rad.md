@@ -1,4 +1,5 @@
 ---
+layout: category
 title: Radiation tehrapy
 layout: category
 permalink: /categories/Rad/
