@@ -2,13 +2,6 @@
 main:
   - title: "Blog"
     url: /
-    children:
-      - title: "Life in America"
-        url: /America
-      - title: "CT Reconstruction"
-        url: /CT
-      - title: "Radiation therapy"
-        url: /Rad
   - title: "CV"
     url: CV
   # - title: "About"
@@ -24,10 +17,10 @@ siadenav:
   - title: "Blog"
     children:
       - title: "Life in America"
-        url: /America
+        url: /categories/America
       - title: "CT Reconstruction"
-        url: /CT
+        url: /categories/CT
       - title: "Radiation therapy"
-        url: /Rad
+        url: /categories/Rad
   - title: "CV"
     url: CV
