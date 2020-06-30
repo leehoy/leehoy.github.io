@@ -266,8 +266,7 @@ compress_html:
   ignore:
     envs: development
 
-sidebar:
-  nav: sidenav
+
 
 
 # Defaults
