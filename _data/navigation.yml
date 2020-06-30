@@ -16,11 +16,13 @@ main:
 sidenav:
   - title: "Blog"
     children:
-      - title: "Life in America"
-        url: /categories/America
-      - title: "CT Reconstruction"
+      - title: "Computed Tomography"
         url: /categories/CT
       - title: "Radiation therapy"
         url: /categories/Rad
+      - title: "Life in America"
+          url: /categories/America
+      - title: "Etc."
+        - ulr: /categories/etc
   - title: "CV"
     url: CV
