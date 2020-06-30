@@ -23,6 +23,6 @@ sidenav:
       - title: "Life in America"
         url: /categories/America
       - title: "Etc."
-        ulr: /categories/etc
+        url: /categories/etc
   - title: "CV"
     url: CV
