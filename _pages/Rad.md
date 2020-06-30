@@ -3,7 +3,7 @@ layout: category
 title: Radiation therapy
 layout: category
 permalink: /categories/Rad/
-taxonomy: Radidation
+taxonomy: Radiation
 entries_layout: list (default) #, grid
 
 ---
