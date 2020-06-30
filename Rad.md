@@ -6,4 +6,7 @@ permalink: /categories/Rad/
 taxonomy: Rad
 author_profile: true
 entries_layout: grid
+sidebar:
+  nav: "sidenav"
+
 ---
