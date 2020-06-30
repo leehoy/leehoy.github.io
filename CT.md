@@ -1,6 +1,6 @@
 ---
 layout: category
-title: CT
+title: Computed tomography
 layout: category
 permalink: /categories/CT/
 taxonomy: CT
