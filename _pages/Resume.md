@@ -7,7 +7,7 @@ sidebar:
 ---
 
 #### Contact me: leehoy12345@gmail.com
-I've received my Ph.D. in KAIST, Daejeon, South Korea. My dissertation advisor was Prof. Seungryong Cho.  
+I've received my Ph.D. in KAIST, Daejeon, South Korea. My dissertation advisor was [Prof. Seungryong Cho](mirlab.kaist.ac.kr).  
 I'm currently a Research Fellow in the Dept. of Radiation Oncology Massachusetts General Hospital.  
 I'm interested in Sparse CT image reconstruction, automating radiotherapy planning.  
 ### Eduation
