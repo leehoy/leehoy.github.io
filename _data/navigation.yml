@@ -20,8 +20,6 @@ sidenav:
         url: /categories/CT
       - title: "Radiation therapy"
         url: /categories/Rad
-      - title: "Life in America"
-        url: /categories/America
       - title: "Etc."
         url: /categories/etc
   - title: "CV"
