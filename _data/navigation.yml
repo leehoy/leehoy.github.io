@@ -20,7 +20,5 @@ sidenav:
         url: /categories/CT
       - title: "Radiation therapy"
         url: /categories/Rad
-      - title: "Etc."
-        url: /categories/etc
   - title: "CV"
     url: CV
