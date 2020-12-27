@@ -21,6 +21,7 @@ I'm interested in sparse CT image reconstruction, automating radiotherapy planni
   * Department of Nuclear and Quantum Engineering, KAIST, Daejeon, Korea, Republic of
 * Feb. 2009 - Aug. 2013, B. S.  
   * Department of Nuclear and Quantum Engineering, KAIST, Daejeon, Korea, Republic of
+
 #### Journal publication
 
 [1] “On-beam computed tomography reconstruction for radiotherapy verification from projection image differences caused by motion during treatment.” Hoyeon Lee, Kwang Ho Cheong, Jae Won Jung, Byungchul Cho, Seungryong Cho, Inhwan Yeo, Phys. Med. Biol., (under review)  
